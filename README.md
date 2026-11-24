@@ -93,7 +93,8 @@ The report settings support filter/drill interactions with other visuals, enhanc
 
 ## 7.Screenshoot
 
-"C:\Users\rajad\OneDrive\Pictures\Screenshots\Screenshot 2026-11-24 111053.png"
+<img width="1367" height="738" alt="Screenshot 2026-11-24 111053" src="https://github.com/user-attachments/assets/99426c18-83df-4219-84ae-5627797b7b46" />
+
 
 ## 8. Conclusion
 
